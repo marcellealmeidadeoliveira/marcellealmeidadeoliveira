@@ -11,7 +11,8 @@
 - 🇧🇷 Brasileira amante de programação <br>
 - 🎓 Estudante de Engenharia da Computação na UNIVESP  <br>
 - 💻 Técnica em Informática para Internet pelo SENAC. <br>
-- 🌱 Conhecimento em FrontEnd, BackEnd para Web e Mobile. <br>
+- 📚  Conhecimento em FrontEnd, BackEnd para Web e Mobile. <br>
+- 📚  Conhecimento em Javascript e php. <br>
 - 📬 Contato: marcelle729almeida@gmail.com <br>
 - 🔭 Atualmente focando em projetos com JavaScript, PHP, React Native e Node.js.
 
