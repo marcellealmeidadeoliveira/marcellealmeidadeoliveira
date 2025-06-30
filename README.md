@@ -1,14 +1,20 @@
-<h1 align="center" style="color:#ff1b68;">Bem vindo</h1>
+<h1 align="center" style="color:#ff1b68;">Olá! Eu sou a Marcelle Almeida 👩‍💻</h1>
+<p align="center">Estudante de Engenharia da Computação | Desenvolvedora Front-End & Back-End</p>
+
 
 ---
 
 ### Sobre mim:
 
 <p align="center">
- - Brasileira <br/>
- - Estudante de Engenharia da Computação na UNIVESP <br/>
- - Técnica em Informática para Internet pelo SENAC <br/>
- - Contato: marcelle729almeida@gmail.com
+
+- 🇧🇷 Brasileira amante de programação <br>
+- 🎓 Estudante de Engenharia da Computação na UNIVESP  <br>
+- 💻 Técnica em Informática para Internet pelo SENAC. <br>
+- 🌱 Conhecimento em FrontEnd, BackEnd para Web e Mobile. <br>
+- 📬 Contato: marcelle729almeida@gmail.com <br>
+- 🔭 Atualmente focando em projetos com JavaScript, PHP, React Native e Node.js.
+
 </p>
 ---
 
