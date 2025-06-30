@@ -38,12 +38,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellealmeidadeoliveira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+
 ---
 
 ### 📈 Linguagens mais usadas
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=onedark&layout=donut&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellealmeidadeoliveira&theme=onedark&layout=donut&langs_count=8" />
 </div>
 
 ---
